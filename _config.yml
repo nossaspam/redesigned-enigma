@@ -1,0 +1,19 @@
+#Site settings
+title: Redesigned Enigma
+author:
+  name: Mar Mac
+  email: mar.azmacdonald@gmail.com
+description: Sitio para experimentar lmao.
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+  # Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
